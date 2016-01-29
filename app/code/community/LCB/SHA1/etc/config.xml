@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LCB_SHA1>
+            <version>1.0.0</version>
+        </LCB_SHA1>
+    </modules>
+    <global>
+        <helpers>
+            <core>
+                <encryption_model>LCB_SHA1_Model_Hash</encryption_model>
+            </core>  
+        </helpers>
+    </global>
+</config> 
